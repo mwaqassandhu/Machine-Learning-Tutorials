@@ -1,11 +1,11 @@
-# Machine Learning Algorithms Tutorials
+# Machine Learning Training
 ## Muhammad Waqas
 ## PhD University of Southern California
 ## Machine Learning | Deep Learning | Autonomous Vehicles | Motion Planning Control
 
 ## Overview
 
-Welcome to the Machine Learning Algorithms Tutorials repository! This repository contains in-depth tutorials covering a wide range of machine learning algorithms, including supervised, unsupervised, and semi-supervised learning techniques. Whether you're a beginner looking to learn the basics or an experienced practitioner seeking a deeper understanding, these tutorials are designed to cater to all skill levels.
+Welcome to the Machine Learning Algorithms Tutorials repository! I conducted training for deep learning algorithms. This repository contains in-depth tutorials covering a wide range of machine learning algorithms, including supervised, unsupervised, and semi-supervised learning techniques. Whether you're a beginner looking to learn the basics or an experienced practitioner seeking a deeper understanding, these tutorials are designed to cater to all skill levels.
 
 ## Table of Contents
 
